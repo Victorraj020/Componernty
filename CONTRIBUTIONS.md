@@ -147,3 +147,5 @@ Contribution on 2026-03-19T20:14:00 - Cleanup code
 Contribution on 2026-03-20T12:58:00 - Update README
 Contribution on 2026-03-20T17:15:00 - Update README
 Contribution on 2026-03-20T17:43:00 - Fix minor bugs
+Contribution on 2026-03-21T15:13:00 - Add documentation
+Contribution on 2026-03-21T12:31:00 - Cleanup code
