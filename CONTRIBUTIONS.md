@@ -217,3 +217,4 @@ Contribution on 2026-04-29T18:52:00 - Improve performance
 Contribution on 2026-04-29T17:32:00 - Update styles
 Contribution on 2026-05-01T21:26:00 - Update README
 Contribution on 2026-05-01T11:16:00 - Add documentation
+Contribution on 2026-05-02T11:43:00 - Add documentation
